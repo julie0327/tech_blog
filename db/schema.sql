@@ -1,2 +1,2 @@
-DROP DATABASE IF EXITS tech_blog_db;
-CREATE DATABASE tech_blog_db;
+DROP DATABASE IF EXITS techblog_db;
+CREATE DATABASE techblog_db;
