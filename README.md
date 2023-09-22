@@ -18,3 +18,4 @@ A CMS-style blog site
 * I click on the logout option in the navigation, I am signed out of the site
 * I am idle on the site for more than a set time, I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
 
+https://drive.google.com/file/d/1mBYirpSU6kswypPsNcVoZv1I9hPxm-Hm/view?usp=sharing
